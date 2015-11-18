@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Btn_popular"
+            android:icon="@drawable/popular"
+            android:title="인기있는 이야기" />
+        <item
+            android:id="@+id/Btn_History"
+            android:icon="@drawable/history"
+            android:title="히스토리 이야기" />
+        <item
+            android:id="@+id/Btn_Myleaf"
+            android:icon="@drawable/myleaf"
+            android:title="나의 꽃잎" />
+        <item
+            android:id="@+id/Btn_AraStore"
+            android:icon="@drawable/arastore"
+            android:title="아라 스토어" />
+        <item
+            android:id="@+id/Btn_InviteFriends"
+            android:icon="@drawable/addfriends"
+            android:title="친구를 초대하기" />
+
+    </group>
+
+</menu>
